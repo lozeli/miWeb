@@ -17,6 +17,7 @@ public class ClinicaSoftwareV2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //que onda esto es lo ke modifike
     }
     
 }
