@@ -11,7 +11,7 @@ package clinicasoftwarev2;
  * @author lozseli
  */
 public class ClinicaSoftwareV2 {
-
+//soy adan y soy boby
     /**
      * @param args the command line arguments
      */
