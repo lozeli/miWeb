@@ -16,7 +16,7 @@ Connection conect = null;
              
            //Cargamos el Driver MySQL
            Class.forName("com.mysql.jdbc.Driver");
-           conect = DriverManager.getConnection("jdbc:mysql://localhost/usuario","root","e31r03");
+           conect = DriverManager.getConnection("jdbc:mysql://localhost/login","root","loze9214");
            
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null,"Error "+e);

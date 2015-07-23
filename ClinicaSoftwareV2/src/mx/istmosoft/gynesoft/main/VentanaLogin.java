@@ -103,7 +103,7 @@ VentanaLogin() {
         try {
 
             Statement instruccionSQL = cn.createStatement();
-            ResultSet resultadosConsulta = instruccionSQL.executeQuery("SELECT * FROM usuarios WHERE nick='" + nombre + "' AND contraseña='" + contraseña + "'");
+            ResultSet resultadosConsulta = instruccionSQL.executeQuery("SELECT * FROM usuario WHERE nombre='" + nombre + "' AND contraseña='" + contraseña + "'");
 
             if (resultadosConsulta.first()) {
                 return true;
