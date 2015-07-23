@@ -42,7 +42,7 @@ public class UIEscritorio extends JFrame {
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setDefaultLookAndFeelDecorated(true);
-        setTitle(Constantes.TITLE_APPLICATION + " :: " + Constantes.ENTERPRISE);
+        setTitle(Constantes.TITLE_APPLICATION + " :lozeli: " + Constantes.ENTERPRISE);
 
     }
 
